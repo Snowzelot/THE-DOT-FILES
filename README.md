@@ -58,10 +58,10 @@ ln -s ~/.config/dotfiles/rofi ~/.config/rofi
 
 ## ⌨️ Keybindings Quick Reference (Hyprland)
 
-* **`SUPER` + `ENTER**` — Launch Kitty Terminal
-* **`SUPER` + `SPACE**` / **`SUPER` + `D**` — Open Rofi Application Launcher
-* **`SUPER` + `B**` — Launch LibreWolf Browser
-* **`SUPER` + `Q**` — Close Active Window
+* **`SUPER` + `q**` — Launch Kitty Terminal
+* **`SUPER` + `SPACE**` — Open Rofi Application Launcher
+* **`SUPER` + `shift + return**` — Launch LibreWolf Browser
+* **`SUPER` + `c**` — Close Active Window
 * **`SUPER` + `M**` — Exit Hyprland
 
 ---
