@@ -33,7 +33,7 @@ sudo pacman -S hyprland kitty neovim rofi-wayland git
 Clone this repo to your home directory or `.config` directory:
 
 ```bash
-git clone https://github.com/username/dotfiles.git ~/.config/dotfiles
+git clone https://github.com/Snowzelot/THE-DOT-FILES.git ~/.config/dotfiles
 
 ```
 
